@@ -48,6 +48,8 @@ The translation is organized by section, mirroring the structure of the original
     └── 3.md  # Foreword
     └── 7.md  # Definition of 1.0, 2.0, 3.0 civilization
     └── 38.md  # Bruce's class
+    └── 39.md  # Bruce's class
+    └── 40.md  # Bruce's class
     
 ```
 
