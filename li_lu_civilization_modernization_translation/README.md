@@ -51,6 +51,7 @@ The translation is organized by section, mirroring the structure of the original
     └── 38.md  # Bruce's class
     └── 39.md  # Bruce's class
     └── 40.md  # Bruce's class
+    └── 41.md  # Keynote Speech at the Harvard Business School Investment Conference (2018)
     
 ```
 
