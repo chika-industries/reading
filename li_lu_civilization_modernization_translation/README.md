@@ -48,9 +48,7 @@ The translation is organized by section, mirroring the structure of the original
     └── 3.md  # Foreword
     └── 7.md  # Definition of 1.0, 2.0, 3.0 civilization; 1.0
     └── 8.md  # 2.0
-    └── 38.md  # Bruce's class
-    └── 39.md  # Bruce's class
-    └── 40.md  # Bruce's class
+    └── 37-40.md  # Bruce's class
     └── 41.md  # Keynote Speech at the Harvard Business School Investment Conference (2018)
     └── 42.md  # Keynote Speech at an International Investors Conference (January 2019)
 ```
