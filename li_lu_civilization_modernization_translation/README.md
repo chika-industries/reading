@@ -15,7 +15,7 @@ and Charlie Munger, the latter of whom has provided a glowing foreword for this 
 
 Parts of the book already published elsewhere: 
 
-* [Talk at Greenwald's class](https://www.youtube.com/watch?v=-jF5au0-JiY)
+* [Talk at Bruce Greenwald's class](https://www.youtube.com/watch?v=-jF5au0-JiY)
 * [The practice of value investing](https://www.longriverinv.com/thought/the-practice-of-value-investing-by-li-lu)
 
 ## 🚧 About This Project
