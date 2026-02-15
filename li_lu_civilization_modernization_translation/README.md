@@ -42,6 +42,7 @@ The translation is organized by section, mirroring the structure of the original
 .
 ├── README.md
 ├── LICENSE
+└── chapter_overviews/
 └── translations/
     └── 1.md  # Forewords & Copyright Info
     └── 2.md  # Foreword
@@ -57,15 +58,3 @@ The translation is organized by section, mirroring the structure of the original
 
 *   [Original Book on Amazon China](https://www.amazon.com/Civilized-modern-value-investing-Chinese/dp/7521712595) (Purchase to support the author)
 *   [Li Lu on Wikipedia](https://en.wikipedia.org/wiki/Li_Lu))
-
-## 📄 License for Translation
-
-The English text of this translation is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/).
-
-**You are free to:**
-*   **Share** — copy and redistribute the material in any medium or format.
-
-**Under the following terms:**
-*   **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-*   **NonCommercial** — You may not use the material for commercial purposes.
-*   **NoDerivatives** — If you remix, transform, or build upon the material, you may not distribute the modified material.
