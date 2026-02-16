@@ -5,7 +5,7 @@ This chapter explains why agricultural civilization (2.0), despite its advances,
 **The Inherent Ceiling: The Photosynthesis Bottleneck**
 Li Lu argues that all agricultural societies faced an insurmountable limit. The fundamental problem was that their energy source—photosynthesis—was tied to land. Crops convert sunlight into energy, and animals convert plants into energy, but this process is highly inefficient (a 10:1 ratio). Therefore, the total energy a society could produce was capped by the amount of arable land and its maximum yield.
 
-This created a Malthusian trap: whenever food production increased, the population grew to consume the surplus. Eventually, the population would exceed the land's carrying capacity, leading to inevitable crises: famine, war over resources, plague, or state collapse. The cycle would then begin again. This is why, as seen in the charts, pre-modern societies rose, peaked, and fell repeatedly without long-term突破.
+This created a Malthusian trap: whenever food production increased, the population grew to consume the surplus. Eventually, the population would exceed the land's carrying capacity, leading to inevitable crises: famine, war over resources, plague, or state collapse. The cycle would then begin again. This is why, as seen in the charts, pre-modern societies rose, peaked, and fell repeatedly without long-term breakthrough.
 
 **The Five Calamities of the 2.0 Era**
 Li Lu identifies the five main causes of disaster that kept civilizations in this cycle:
