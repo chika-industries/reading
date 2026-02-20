@@ -1,0 +1,16 @@
+Here is the summary of Chapter 12 of "Tax-Free Wealth."
+
+### Summary of Chapter 12: Lower Your Property, Sales, and Value-Added Taxes
+
+This chapter broadens the tax discussion beyond income tax to include other significant taxes that business owners often overlook: sales tax (or VAT/GST) and property taxes. The author argues that these taxes can be just as large—if not larger—than income tax, and they offer just as many opportunities for reduction.
+
+- **Beyond Income Tax:** The author shares his experience working at a large utility company where income taxes were eliminated due to losses, but the company still faced massive property and sales tax bills. This experience taught him that focusing *only* on income tax is a mistake.
+- **The Scale of Sales Tax:** Using a simple example, the author demonstrates that on $100 of revenue, sales tax (e.g., 8-20%) can easily exceed income tax (e.g., 6%), especially in countries with national VAT systems. While sales tax on your sales is passed to the customer, the tax you pay on your *purchases* is a real cost that goes straight to your bottom line.
+- **Exemptions on Purchases:** Most business owners don't realize there are hundreds of exemptions. In many U.S. states, purchases of manufacturing equipment, inventory, raw materials, and R&D equipment are not subject to sales tax. The same principle applies in other countries with VAT—knowing the rules can give you a 20% discount on everything you buy.
+- **The Danger of Uncollected Sales Tax:** The biggest risk is failing to collect sales tax on your sales when you are required to. A cautionary tale is shared about a seminar company that was audited and hit with a $1 million bill for uncollected sales tax over four years. The worst part is you can't go back to past customers and collect it. The rule is: **when in doubt, collect it.**
+- **Property Taxes:** These are particularly painful because they are due regardless of whether you made a profit, and rates may not drop when property values do.
+- **Reducing Real Estate Property Tax:**
+    1.  **Challenge the Value:** Protest the assessed value, especially in a down market. You can use an appraisal or show that similar properties are valued lower.
+    2.  **Check for Classification Errors:** The author shares a personal story of being taxed at a higher rate for years because his house was incorrectly classified as a single-story home due to a technicality in county rules.
+- **Personal Property Tax:** This tax applies to business property like machinery and equipment, not real estate. The good news is that there are special benefits, particularly for property used in research, development, and high-tech manufacturing. Depreciation for property tax purposes is often much faster than for income tax.
+- **Key Strategy #12:** The tax strategy is to **reduce your sales tax burden by always collecting it**. As a business owner, you pay sales tax on items you buy and on items you sell. The bigger risk is on sales. If you're unsure if tax is due, collect it. Customers expect to see it on an invoice. If you're later found to owe tax you didn't collect, the burden shifts to you. If you operate in multiple states, hire a qualified CPA to perform a sales tax study to ensure you're collecting in all the right places—it's cheaper than an audit.

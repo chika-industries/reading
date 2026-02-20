@@ -1,0 +1,13 @@
+Here is the summary of Chapter 7 of "Tax-Free Wealth."
+
+### Summary of Chapter 7: Depreciation: The King of All Deductions
+
+This chapter focuses on what the author considers the single most powerful tax deduction available to investors and business owners: depreciation.
+
+- **The "Magic" of Depreciation:** The author describes depreciation as "magic" because it allows you to take a tax deduction for an asset that doesn't actually cost you any money out of pocket in the current year. You get to deduct a portion of the cost of an income-producing asset (like a building or equipment) over time, even if the asset is actually increasing in value.
+- **How It Works:** When you buy a physical asset (real estate, equipment), you can deduct a portion of its cost each year. For tangible assets, this is called *depreciation*; for intangible assets (customer lists, software), it's called *amortization*. The key is that this deduction is available even if you borrowed money to buy the asset—you get to deduct the full cost, including the bank's money.
+- **Real Estate Example:** The author walks through an example of someone buying a rental property. Even with positive cash flow, the depreciation deduction can create a paper loss for tax purposes. This loss can offset not only the rental income but also other income (like salary or business profits), generating significant tax refunds. In the example, a property with $12,000 in cash flow created a $10,400 tax refund due to depreciation.
+- **Cost Segregation:** A key strategy is to break down the purchase price of a building into its component parts (land, building, land improvements, and contents like cabinetry and flooring). The contents and improvements can be depreciated much faster than the building itself (e.g., 20% per year vs. 2.5%), accelerating the tax savings.
+- **Amortization:** This is the same concept applied to non-physical assets. Buying a customer list or secret recipes, for example, allows you to deduct a portion of that cost over several years.
+- **Common Mistakes:** The author laments that many taxpayers and even accountants fail to take depreciation or fail to perform a cost segregation study. He calls this "cheating yourself," as it means leaving money on the table and letting the government keep your refund.
+- **Key Strategy #7:** The tax strategy for the chapter is to perform a **cost segregation study** on business and rental properties. This is not an aggressive loophole but a legally required way to account for asset costs. By using professionals (engineers or CPAs) to properly reclassify assets, you can accelerate your depreciation deductions, often resulting in a large, catch-up deduction in the current year, even if you've owned the property for years.

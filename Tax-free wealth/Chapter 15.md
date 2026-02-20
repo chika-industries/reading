@@ -1,0 +1,19 @@
+Here is the summary of Chapter 15 of "Tax-Free Wealth."
+
+### Summary of Chapter 15: Plan to Take Control of Your Taxes: Entities
+
+This chapter marks the beginning of Part Two and serves as the strategic foundation for everything discussed so far. It emphasizes that random acts of tax savings are not enough—you need a comprehensive, long-term plan built on the right legal structures (entities).
+
+- **The Power of a Strategy:** A strategy is simply a plan of action designed to accomplish a specific purpose. In this case, the purpose is to permanently lower your taxes for life. The author states that having a long-term, flexible strategy is the key to paying less tax than those without one.
+- **Permanent vs. Temporary Tax Savings:** The chapter draws a critical distinction between the two:
+    - **Temporary (Deferral):** This is what most people do—401(k)s, IRAs, RRSPs. You get a deduction now but pay tax later when you withdraw the money. This assumes you'll be in a lower bracket later (i.e., you plan to retire poor). You also lose control of your money and face restrictions on investments and withdrawals.
+    - **Permanent:** This is the goal of the book. You implement strategies (like those in previous chapters) that reduce your tax bill forever, with no future repayment. You maintain control, and your tax rates go down permanently.
+- **RULE #13: Taxpayers with long-term, flexible tax strategies will always pay less tax than those without strategies.**
+- **Building Your Strategy:** You must know where you are starting from and where you want to go. Ask questions about your current investments, business entities, family plans, and career security. The strategy must be **flexible** (to accommodate life changes) and consider the **big picture** (to avoid tax savings that cause personal or business problems).
+- **The "Tax Tail Wagging the Dog" Warning:** A cautionary tale is shared about a client who transferred business ownership to his children for tax benefits, only to have one daughter's husband discover her ownership and pressure her for money, contributing to marital problems. The tax plan was good, but it didn't account for family dynamics. Don't let tax savings create bigger personal problems.
+- **The Four Primary Entity Types:** Entities are the building blocks of your tax strategy. Each has a purpose:
+    1.  **Trusts:** Primarily for transferring assets to future generations or charities. Essential for estate planning.
+    2.  **Partnerships:** Flexible entities where income flows through to partners. **General partnerships** are dangerous (unlimited liability). **Limited partnerships** are better for estate planning and passive investors, allowing the general partner to maintain control.
+    3.  **Corporations:** Recognized worldwide for owning businesses. Useful for going public and asset protection. Includes special types like S corporations (U.S.) for pass-through taxation and small business incentives.
+    4.  **Limited Liability Companies (LLCs):** Combine the asset protection of a corporation with the tax flexibility of a partnership. Members can have management control without personal liability. In the U.S., they are the entity of choice for many.
+- **Key Strategy #15:** The tax strategy is to **use a combination of entity types** rather than relying on just one. For example, two partners could each form their own S corporation, and then have those two S corporations jointly own a partnership (LLC taxed as a partnership) that runs the actual business. This structure allows for special allocations of deductions (e.g., one partner's Ferrari lease can be allocated solely to them) while still providing the employment tax benefits of S corporations and the liability protection of LLCs. You can have your cake and eat it too.
