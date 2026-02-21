@@ -42,7 +42,3 @@ Once a manager is hired, the job is not over. Clients must monitor the manager's
 
 **Conclusion:**
 Klarman ends with a final piece of advice: whatever you do with your money beyond Treasury bills carries some risk. Inertia is also a decision. Given the effort it took to accumulate your wealth, it is not something to trifle with. He strongly recommends adopting a value-investment philosophy and either finding a professional with a proven value-investment record or committing the necessary time to do it yourself.
-
----
-
-This concludes the chapter summaries for Seth Klarman's *Margin of Safety*. Would you like me to provide a recap or summary of the entire book?
