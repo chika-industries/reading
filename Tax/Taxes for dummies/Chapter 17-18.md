@@ -30,5 +30,3 @@ This chapter provides a comprehensive guide to dealing with IRS correspondence, 
     - **Random Statistical Audit:** A random selection used by the IRS to gather data on taxpayer compliance.
 - **Preparing for an Audit:** The chapter advises gathering all relevant documentation, organizing it neatly, and sticking to the specific items being questioned. It notes that you have the right to be represented by a tax professional (enrolled agent, CPA, or attorney).
 - **Statute of Limitations on Audits:** The IRS generally has **three years** from the due date of your return to assess additional tax. This period extends to six years if you omitted more than 25% of your gross income. There is no time limit for fraudulent returns or failure to file.
-
-Would you like me to continue with the next two chapters?
