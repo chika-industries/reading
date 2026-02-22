@@ -1,4 +1,4 @@
-Here is a summary of Chapter 6 of *Capital*, Volume 1.
+
 
 ### Summary of Chapter 6: The Sale and Purchase of Labour-Power
 
