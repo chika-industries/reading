@@ -39,4 +39,4 @@ This chapter focuses on how to structure your investment portfolio to minimize t
     - **Mutual Fund Average Cost Method:** Explains the allowed method for calculating gain or loss on mutual fund shares bought at different times and prices.
     - **Stock Options:** Briefly touches on the tax treatment of **incentive stock options (ISOs)** and **nonstatutory stock options**.
 
-Would you like me to continue with the next two chapters?
+SS
