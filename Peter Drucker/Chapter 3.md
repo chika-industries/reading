@@ -110,7 +110,7 @@ Every institution faces three tasks—equally important but essentially differen
 **The 80/20 Reality**
 - In any social organism, 10-15% of phenomena (products, customers, markets) produce 80-90% of results
 - The other 85-90% produce nothing but costs, no matter how efficiently managed
-- First administrative job: make effective the small core of worthwhile activities; neutralize or abandon the rest
+- **First administrative job: make effective the small core of worthwhile activities; neutralize or abandon the rest**
 
 **Entrepreneurship Means Making Tomorrow's Business**
 - Requires systematic analysis and hard work today
