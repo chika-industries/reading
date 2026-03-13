@@ -1,0 +1,21 @@
+Here is a summary of the next book, **Ruth**, based on the provided text.
+
+The Book of Ruth is a short, beautiful story set "in the days when the judges ruled." It provides a stark contrast to the violence and moral chaos of Judges, offering a glimpse of quiet faithfulness, loyalty, and redemption. The book highlights God's providence and the inclusion of faithful Gentiles into His covenant people, ultimately leading to the lineage of King David and Jesus Christ.
+
+**Part 1: Tragedy and Loyalty (Chapters 1-2)**
+- **A Family Flees Famine:** A man named Elimelech, his wife Naomi, and their two sons leave Bethlehem (the "house of bread") due to a famine and move to Moab. While there, Elimelech dies. The two sons marry Moabite women, Orpah and Ruth. After about ten years, both sons also die, leaving Naomi, Orpah, and Ruth as widows.
+- **Naomi Returns Home:** Naomi hears that the Lord has provided food for His people in Judah and decides to return. She urges her daughters-in-law to stay in Moab and find new husbands. Orpah reluctantly agrees and stays behind.
+- **Ruth's Loyal Pledge:** Ruth, however, clings to Naomi and speaks one of the most beautiful expressions of loyalty in scripture: "Entreat me not to leave thee, or to return from following after thee: for whither thou goest, I will go; and where thou lodgest, I will lodge: thy people shall be my people, and thy God my God." Together, they journey to Bethlehem.
+- **Ruth Gleans in the Fields:** They arrive at the beginning of the barley harvest. To provide for them, Ruth goes to glean leftover grain in the fields, as the law permitted for the poor. She "happens" to come to the field belonging to Boaz, a wealthy and honorable relative of Elimelech.
+- **Boaz Shows Kindness:** Boaz notices Ruth and learns of her loyalty to Naomi. He shows her great kindness, protecting her, providing water, and instructing his men to leave extra grain for her. When Ruth asks why he is so kind, Boaz explains he has heard of all she has done for Naomi.
+
+**Part 2: The Plan for Redemption (Chapters 3-4)**
+- **Naomi's Plan:** Naomi recognizes that Boaz is a "kinsman" — a family member with the right to act as a redeemer for Elimelech's family line and property. She devises a plan for Ruth to approach Boaz at the threshing floor after the harvest.
+- **Ruth's Request:** Following Naomi's instructions, Ruth quietly goes to the threshing floor, uncovers Boaz's feet, and lies down. When Boaz awakens, she asks him to spread his skirt over her, a symbolic request for him to act as her protector and redeemer by marrying her.
+- **A Nearer Kinsman:** Boaz is honored by her request but explains there is a kinsman even nearer than he who has the first right of redemption. He promises to settle the matter in the morning.
+- **The Legal Transaction:** At the city gate, Boaz gathers ten elders and presents the case to the nearer kinsman. He offers him the chance to redeem the land belonging to Elimelech. The kinsman agrees until Boaz adds that acquiring the land also means acquiring Ruth the Moabitess to "raise up the name of the dead upon his inheritance." The kinsman, fearing to impair his own inheritance, declines and gives Boaz his sandal as a symbol of the transfer.
+- **Boaz Redeems Ruth:** Boaz publicly declares he has bought the land and acquired Ruth as his wife to preserve the name of the dead. The elders and people bless the union, praying that Ruth will be like Rachel and Leah and that Boaz's house will be famous in Bethlehem.
+
+**Part 3: The Legacy (Chapter 4:13-22)**
+- **A Son is Born:** The Lord enables Ruth to conceive, and she bears a son named Obed. Naomi, who had begun her story empty and bitter, is now filled with joy. The women of the city declare that Ruth, who loves Naomi, "is better to thee than seven sons." Naomi becomes the nurse to the child.
+- **The Genealogy of David:** The book concludes with a vital genealogy. Obed becomes the father of Jesse, and Jesse becomes the father of David — the future king of Israel. This shows that Ruth, a Moabite woman, became the great-grandmother of King David, placing her directly in the lineage of Jesus Christ.
