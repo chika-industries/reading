@@ -1,5 +1,3 @@
-We're getting close! There's one more main chapter (Chapter 25) and then several appendices. Here's the next chapter:
-
 ## Summary of Chapter 25: Tail Risk Constraints and Maximum Entropy (with H. Geman)
 
 This chapter takes a radically different approach to portfolio construction. Instead of starting with assumptions about distributions (like Markowitz) or utility functions, it starts with what investors actually care about: **not losing more than a certain amount**. From this simple constraint, and using maximum entropy (the principle that we should assume as little as possible beyond what we know), a surprising portfolio structure emerges naturally.
