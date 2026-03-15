@@ -1,0 +1,15 @@
+Based on the PDF, the next book is the **Acts of the Apostles** (often simply called **Acts**). It is the fifth book in the New Testament.
+
+Here is a summary of its content as presented in the document:
+
+- **The Ascension and Replacement of Judas (Chapter 1)**: The book opens with the resurrected Jesus spending forty days with His apostles, instructing them, before being "taken up" (the Ascension) into heaven. The apostles, along with Mary and other disciples, gather in Jerusalem. Peter proposes that they choose a replacement for Judas Iscariot, and Matthias is selected by lot to become the twelfth apostle.
+
+- **The Day of Pentecost (Chapter 2)**: The apostles are gathered on the day of Pentecost when the Holy Ghost descends upon them like "cloven tongues like as of fire." They are filled with the Spirit and begin to speak in other languages, allowing devout Jews from every nation to understand them in their own tongues. Peter delivers a powerful sermon, declaring that Jesus is both Lord and Christ, and about three thousand people are baptized and added to the church.
+
+- **Healing the Lame Man and Facing Opposition (Chapters 3-4)**: Peter and John heal a lame man at the gate of the temple. This miracle draws a crowd, and Peter preaches to them, calling them to repentance. The priests and Sadducees arrest them, but many who heard the word believe. The next day, Peter, filled with the Holy Ghost, boldly testifies before the rulers and elders that salvation comes only by Jesus Christ. They are commanded not to speak in Jesus's name, but they refuse, stating, "We cannot but speak the things which we have seen and heard."
+
+- **Unity, Generosity, and Deception (Chapter 5)**: The believers are described as being of "one heart and one soul," sharing all their possessions so that no one is in need. However, a man named Ananias and his wife Sapphira sell a possession but keep back part of the price, lying to the apostles about the full amount. Both are struck dead for their deception. The apostles continue to perform many signs and wonders, and the church continues to grow.
+
+- **Choosing the Seven and Stephen's Ministry (Chapter 6)**: As the number of disciples multiplies, a dispute arises about the daily ministration to widows. The apostles instruct the disciples to choose seven men of "honest report, full of the Holy Ghost and wisdom" to oversee this matter, so the apostles can devote themselves to prayer and the ministry of the word. One of these chosen men is Stephen, who is described as being "full of faith and power" and does great wonders among the people.
+
+In summary, the Acts of the Apostles records the history of the early Christian church following the resurrection and ascension of Jesus Christ. It documents the descent of the Holy Ghost at Pentecost, the powerful preaching and miracles of the apostles (especially Peter), the rapid growth of the church, and the beginnings of persecution, ending with the selection of seven men, including Stephen, to assist in the church's expanding needs.
