@@ -1,0 +1,17 @@
+Based on the PDF, the next book is the **Epistle of Paul the Apostle to the Galatians** (often called **Galatians**). It is the ninth book in the New Testament.
+
+Here is a summary of its content as presented in the document:
+
+- **Paul's Defense of His Apostleship (Chapters 1-2)** : Paul expresses astonishment that the Galatians are so quickly removing from the grace of Christ to a different gospel, which is really not another. He vehemently defends his apostleship, declaring it is not from men but by Jesus Christ and God the Father. He recounts his background in Judaism and how he was called by God's grace, emphasizing that the other apostles added nothing to him, and that he withstood Peter to the face when he walked not uprightly according to the truth of the gospel.
+
+- **Justification by Faith, Not by the Law (Chapter 3)** : Paul asks the foolish Galatians who has bewitched them that they should not obey the truth. He reminds them that they received the Spirit by the hearing of faith, not by the works of the law. He teaches that Abraham believed God and it was accounted to him for righteousness, and that those who are of faith are blessed with faithful Abraham. The law, he explains, was our schoolmaster to bring us unto Christ, that we might be justified by faith.
+
+- **Sons and Heirs Through Christ, Not Servants (Chapter 4)** : Paul explains that when the fullness of time came, God sent forth His Son to redeem those under the law, that we might receive the adoption of sons. Because we are sons, God has sent forth the Spirit of His Son into our hearts, crying "Abba, Father." He expresses confusion as to why they turn again to weak and beggarly elements, desiring to be in bondage again, and he uses the allegory of Sarah and Hagar to represent the two covenants.
+
+- **Stand Fast in Liberty and Walk in the Spirit (Chapter 5)** : Paul exhorts them to stand fast in the liberty wherewith Christ has made them free and not be entangled again with the yoke of bondage. He declares that in Jesus Christ, neither circumcision avails anything nor uncircumcision, but faith which works by love. He urges them to walk in the Spirit and not fulfill the lust of the flesh, contrasting the works of the flesh with the fruit of the Spirit.
+
+- **Bear One Another's Burdens and Glory in the Cross (Chapter 6)** : Paul instructs them to restore a brother overtaken in a fault in the spirit of meekness, and to bear one another's burdens, thus fulfilling the law of Christ. He warns that whatever a man sows, that shall he also reap. In conclusion, he declares that God forbid that he should glory save in the cross of our Lord Jesus Christ, for neither circumcision nor uncircumcision is anything, but a new creature.
+
+In summary, Galatians is a passionate and urgent letter where Paul defends his apostolic authority and the core doctrine of justification by faith alone. He strongly confronts those who would turn back to the works of the law, teaching that believers are children of God through faith and are called to liberty, not bondage. He concludes by calling them to walk in the Spirit, bear one another's burdens, and glory only in the cross of Christ.
+
+If you would like a summary of the next book, the Epistle to the Ephesians, please let me know.
