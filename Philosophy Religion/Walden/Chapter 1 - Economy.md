@@ -1,0 +1,11 @@
+Here is a summary of Chapter 1 of *Walden*:
+
+### Summary of Chapter 1: "Economy"
+
+In this lengthy opening chapter, Thoreau sets the stage for his experiment in simple living by offering a sharp critique of the complex, anxious, and materialistic lives led by most people, which he calls "lives of quiet desperation." He argues that his contemporaries are so consumed with acquiring property, keeping up with fashion, and toiling at unnecessary jobs that they have become tools of their tools, unable to enjoy the finer fruits of existence.
+
+Thoreau defines the "necessary of life" as food, shelter, clothing, and fuel—things so essential that few ever attempt to do without them. He contends that most people vastly overestimate their needs, burdening themselves with unnecessary possessions (like large farms and luxurious houses) that actually enslave them. By inheriting a farm, a man inherits a lifetime of worry and labor, becoming a "serf of the soil."
+
+To prove his point, Thoreau details his own two-year experiment in economical living. He built a small, inexpensive house on the shore of Walden Pond for a total cost of $28.12½, grew most of his own food (beans, potatoes, corn, peas), and worked only about six weeks a year to meet his minimal monetary expenses. Through precise accounting of his building costs and grocery bills, he demonstrates that a person can provide for all his true needs with very little labor, freeing up the rest of his time for leisure, contemplation, and the pursuit of higher goals.
+
+The chapter is a call for radical simplicity, self-reliance, and deliberate living. He urges his readers to "simplify, simplify," to avoid the traps of fashion and social opinion, and to build their own lives with the same integrity a bird builds its nest. His ultimate purpose in going to the woods was "to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived."
