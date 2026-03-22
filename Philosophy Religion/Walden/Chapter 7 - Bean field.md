@@ -1,0 +1,8 @@
+
+### Summary of Chapter 7: "The Bean-Field"
+
+In this chapter, Thoreau describes his summer of cultivating beans on a two-and-a-half-acre plot near his house. He planted beans, along with small patches of potatoes, corn, peas, and turnips, and spent long hours hoeing among the rows. The work was demanding but meditative, connecting him to the earth and its history—he turned up arrowheads left by an earlier Indian civilization that had once farmed the same land.
+
+Thoreau reflects on the deeper meaning of his labor. He cherished his bean rows not for the modest income they produced (a profit of about eight dollars) but for the intimacy they gave him with nature. His work became a kind of ritual, with the hoeing itself a form of cultivation of both soil and spirit. He personifies his enemies—woodchucks, weeds, and worms—and celebrates the daily battle to make the land yield its harvest.
+
+The chapter intertwines practical details (costs, yields, the rhythm of hoeing) with philosophical musings. Thoreau questions whether he should instead have planted seeds of truth, simplicity, and virtue, and concludes that the farmer’s true harvest is not merely economic but moral. He notes that ancient poetry treated husbandry as a sacred art, whereas modern farming has become mere commerce. The chapter ends with a call to regard the land with reverence, recognizing that the sun shines equally on cultivated fields and wild prairies.
