@@ -1,0 +1,13 @@
+Based on the PDF, the next book is the **Epistle of Paul the Apostle to the Colossians** (often called **Colossians**). It is the twelfth book in the New Testament.
+
+Here is a summary of its content as presented in the document:
+
+- **Paul’s Thanksgiving and Prayer for the Colossians (Chapter 1)** : Paul greets the saints at Colosse and gives thanks for their faith in Christ and love for all the saints. He prays that they might be filled with the knowledge of God’s will, walking worthy of the Lord. He then presents a magnificent description of Christ as the image of the invisible God, the firstborn of every creature, by whom all things were created and in whom all things consist. He explains that Christ is the head of the body, the church, and that through His blood, believers are reconciled to God.
+
+- **The Mystery of Christ and Warnings Against False Teachings (Chapter 2)** : Paul declares his struggle for them and for the Laodiceans, that they might be comforted and come to the full knowledge of the mystery of God, which is Christ. He warns them not to be deceived by enticing words or philosophy, vain deceit, and the traditions of men. He teaches that in Christ dwells all the fullness of the Godhead bodily, and believers are complete in Him. They are circumcised with the circumcision made without hands, buried with Christ in baptism, and risen with Him through faith.
+
+- **Put Off the Old Man and Put On the New (Chapters 3-4)** : Paul exhorts them to seek the things above, where Christ sits at the right hand of God, and to set their affection on heavenly things. He instructs them to mortify (put to death) earthly members: fornication, uncleanness, inordinate affection, evil concupiscence, and covetousness. They are to put off anger, wrath, malice, blasphemy, filthy communication, and lying. Instead, they are to put on mercy, kindness, humility, meekness, longsuffering, and above all, charity (love). He gives household instructions for wives, husbands, children, fathers, servants, and masters. He closes with exhortations to continue in prayer, walk in wisdom toward outsiders, and sends personal greetings.
+
+In summary, Colossians emphasizes the preeminence and supremacy of Jesus Christ as the head of all creation and of the church. Paul combats early heresies by affirming the fullness of the Godhead dwelling in Christ and the completeness believers have in Him. He then calls the saints to live in light of this truth, putting off sinful practices and putting on Christlike virtues.
+
+If you would like a summary of the next book, the First Epistle to the Thessalonians, please let me know.
