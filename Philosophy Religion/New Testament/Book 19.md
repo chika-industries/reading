@@ -1,0 +1,18 @@
+Based on the PDF, the next book is the **Epistle to the Hebrews** (often called **Hebrews**). It is the nineteenth book in the New Testament. Unlike the previous letters, Hebrews does not name its author, though it has traditionally been associated with Paul.
+
+Here is a summary of its content:
+
+- **Christ Superior to Angels and the Old Covenant (Chapters 1–2)** : The book opens by declaring that God spoke in times past through prophets, but in these last days has spoken through His Son Jesus Christ. The Son is the brightness of God’s glory and the express image of His person. Christ is declared to be superior to angels, as He has inherited a more excellent name. The warning is given not to neglect so great salvation, which was confirmed by signs and wonders.
+
+- **Christ Greater Than Moses and Joshua’s Rest (Chapters 3–4)** : Christ is counted worthy of more glory than Moses, as a son over his own house, while Moses was faithful as a servant. Believers are warned against hardening their hearts as in the provocation in the wilderness. The promise of entering God’s rest remains, and Joshua did not give them true rest. There remains a Sabbath rest for the people of God.
+
+- **Christ as High Priest After the Order of Melchizedek (Chapters 5–7)** : Every high priest is taken from among men to offer gifts and sacrifices. Christ did not glorify Himself to become high priest but was called by God as Aaron was. He is a priest forever after the order of Melchizedek. Melchizedek, king of Salem and priest of the Most High God, was without father or mother, having neither beginning of days nor end of life. The law made imperfect priests, but Christ’s priesthood is unchangeable and permanent, able to save completely those who come to God through Him.
+
+- **The New Covenant and the Heavenly Sanctuary (Chapters 8–10)** : Christ has obtained a more excellent ministry as mediator of a better covenant, established on better promises. The first covenant had earthly ordinances and a sanctuary, but Christ came as high priest of good things to come, entering once for all into the holy place with His own blood, obtaining eternal redemption. The law was a shadow of good things to come. Christ’s sacrifice was once for all, perfecting forever those who are sanctified.
+
+- **Faith Defined and Exemplified (Chapter 11)** : Faith is the substance of things hoped for, the evidence of things not seen. The chapter gives a catalog of faithful examples: Abel, Enoch, Noah, Abraham, Sarah, Isaac, Jacob, Joseph, Moses, Rahab, and many others who endured persecution and hardship, not receiving the promises but seeing them afar off.
+
+- **Endurance, Discipline, and Exhortations (Chapters 12–13)** : Believers are to lay aside every weight and run with patience the race set before them, looking unto Jesus, the author and finisher of faith. God disciplines those He loves as a father disciplines children. They are to follow peace and holiness, without which no man shall see the Lord. Warnings are given not to refuse Him who speaks from heaven. The book concludes with exhortations to brotherly love, hospitality, marriage, contentment, and remembering those who lead them. Jesus Christ is the same yesterday, today, and forever.
+
+In summary, Hebrews is a theological treatise demonstrating the superiority of Jesus Christ and His new covenant over the old covenant, the law, and the Levitical priesthood. It presents Christ as the great High Priest after the order of Melchizedek, who offered Himself once for all as the perfect sacrifice for sin. The book encourages believers to hold fast their confession, endure suffering, and live by faith.
+
